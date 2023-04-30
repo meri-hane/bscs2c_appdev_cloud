@@ -1,0 +1,29 @@
+Introduction - CALULANG
+
+
+Discussions
+
+            What is Cloud Computing - CALULANG
+
+            History of Cloud Computing - CALULANG
+
+            Architecture of Cloud Computing - CALULANG
+
+            Types of Cloud Computing - CALULANG
+
+            Components of Cloud Computing - BARRIOS
+
+            Services - BARRIOS
+
+            Providers - BARRIOS
+
+            Advantages of Cloud Computing - BARRIOS
+
+            Disadvantages of Cloud Computing - OLOROSO
+
+            Recent Developments of Cloud Computing  - OLOROSO
+
+            Relation to Autonomic Computing - OLOROSO
+
+
+Conclusion on Cloud Computing  - OLOROSO
