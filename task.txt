@@ -25,5 +25,6 @@ Discussions
 
             Relation to Autonomic Computing - OLOROSO
 
+Summary - CALULANG
 
 Conclusion on Cloud Computing  - OLOROSO

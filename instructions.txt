@@ -1,0 +1,23 @@
+Instructions
+All case studies/topic presentations must be submitted on _______________________. Upload your work in the designated Folder in our Files Tab. Ensure that you have enough data and information to support your topic.
+Documents to be submitted shall be of the following:
+-Documentation (word and pdf format)
+·        Format
+o   Title page including names of group members
+o   Objectives
+o   Introduction
+o   Discussions
+o   Summary/Conclusion
+o   References in APA Format or sources of your report
+o   Font: Century Gothic
+o   Font size: 12
+o   Spacing: 1.5
+o   Margins: Top 1”, Bot 1”, Left 1.5”, and Right 1”
+-PowerPoint presentation
+ 
+Cloud Computing and Autonomic Computing
+·        Describe Cloud Computing and Autonomic Computing
+·        Explain the history of both technology
+·        Describe the pros and cons of both technologies
+·        Explain how Cloud and Autonomic computing works in different focus area
+·        Describe some of the application areas of Cloud
