@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+Disadvantages of Cloud Computing
+
+Although cloud computing has many benefits, there are a few drawbacks to take into account. 
+The following are some of the major drawbacks of cloud computing:
+
+Security risks - Data storage on third-party servers may be exposed to hackers, cyberattacks, and 
+        illegal access, which can be a security issue. Although the security of the data is the responsibility 
+        of the cloud provider, there have been instances where data breaches have led to the leakage of sensitive information. 
+            Keep in mind what happened at Code Space when their AWS EC2 access was hacked, causing data loss and 
+        eventually the collapse of the company. Their reliance on remote cloud-based technology forced them to take 
+        on the risks related to outsourcing everything.
+
+Dependence on internet connectivity - A reliable and powerful internet connection is necessary 
+        for cloud computing. The speed and usability of cloud-based applications and services may be affected 
+        if the internet is weak or unavailable. 
+
+Limited control - The user's ability to manage the infrastructure, software, and hardware is constrained 
+        while using cloud computing. Users are unable to alter the underlying systems or settings in this way, 
+        which might be problematic for organizations that have particular demands.
+            Clients may be limited in what they may do with their deployments by a cloud provider's management 
+        policies and end-user licensing agreement (EULA). Although customers may not have as much control over the 
+        infrastructure on the back end, they still have full control over their apps, data, and services.
+
+Downtime and outages - Cloud service providers may encounter outages and downtime, which may affect the 
+        accessibility and availability of cloud-based services and applications. Customers may become dissatisfied 
+        as a result, along with lost productivity and income.
+            An Amazon Web Services outage may have cost publicly traded companies $150 million in 2017. Sadly, no business is immune, 
+        especially when it comes to preventing essential business operations. In June and July of 2019, several companies 
+        and services, including well-known web services company Cloudflare, Google, Amazon, Shopify, Reddit, Verizon, 
+        and Spectrum, experienced outages.
+
+Cost - While cloud computing can be affordable in some circumstances, it can also be costly for companies 
+        that need a lot of performance, storage, or processing power. Data transfer, support, and other services 
+        could also come at an additional expense.
+
+Vendor lock-in - When a business relies on a particular cloud provider, switching to a different one 
+        or bringing data and apps back in-house might be challenging. This is due to the fact that cloud providers 
+        frequently employ exclusive technologies and file formats that are incompatible with those of other providers 
+        or on-premise systems. 
+            To avoid substantial expense and interruption, it might be difficult to move data and apps to another cloud 
+        provider or to bring them back in-house. Additionally, it may be difficult or expensive to switch cloud providers due to 
+        lengthy contracts or high exit fees. Migration-related flaws or hacks might potentially expose your data to extra 
+        security and privacy risks.
