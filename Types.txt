@@ -1,0 +1,47 @@
+Types of Deployment Models
+
+The three (3) main types of cloud deployment models are: private, public, and hybrid cloud. 
+
+Private cloud
+
+      The private cloud concept is made to be private and is intended only for use by its tenants. This means that in order to connect to a network 
+link and access a private cloud, IT must first set up a specific network access. A business can host its own private cloud infrastructure 
+in-house or through a third party. The infrastructure is created for exclusive usage, which makes the private cloud concept interesting. This 
+provides an organization with direct control over the resources available and the data storage methods. For instance, you can pick the precise 
+hardware and operating system you like. Other models do not offer the same level of versatility as this one. This is especially helpful if there 
+are particular security threats or needs. But compared to the other models, it typically demands a larger time and financial investment. Think 
+about the hardware that needs to be purchased, installed, and maintained, as well as the infrastructure that needs to be created. If the 
+hardware is provided and maintained by a third party, such as IBM or RackSpace, this decreases. How is this different from on-premise, you might 
+be wondering. The architecture under this paradigm leverages virtualization, which enables on-demand compute resources, and adheres to cloud 
+principles. Off-site private clouds are another option.
+
+Public cloud
+
+      Public clouds are the second type. The public can access and use the shared cloud infrastructure. An organization that offers cloud services, 
+such as AWS or Azure, owns and manages the infrastructure. Internet access is available for public clouds. This enables businesses to launch 
+rapidly and for little money. Instead of hosting or committing to an infrastructure, they can choose the services they require from a supplier. 
+Scaling is made simpler by the ability to purchase additional capacity immediately. Public cloud is not a smart option if having direct access 
+to data centers or hardware is crucial. For security concerns, public cloud companies hide the whereabouts of their data centers even from their 
+customers.
+
+Hybrid cloud
+
+      Why not both? Enter the third model: hybrid. This is when an organization uses a combination of two or more distinct models. The different models 
+interact with each other via a network link and can share data and services. It's more of a question of where data and services are physically 
+stored. For example, you could store sensitive patient data on a private cloud for security reasons and use an application on the public cloud, 
+like a business intelligence tool, to process it. Hybrid clouds are useful in the case of cloud bursting. This is when a private cloud is 
+overwhelmed by demand and hits capacity. To avoid disruption of service to users, traffic is moved to a public cloud instance. A classic example 
+of this are seasonal spikes. For example, retail businesses can expect extraordinary traffic during sales periods like Black Friday or Boxing Day. 
+This allows organizations to cost-effectively handle periodic spikes with pay-per-use pricing.
+
+Other deployment models
+
+      There are other cloud deployment models to consider including multicloud.The services of various cloud providers are combined in multicloud. An 
+organization might, for instance, use Google Cloud for analytics and Azure for backups and website hosting. A variety of pricing options and 
+service options are available with multicloud. It lessens a company's reliance on a single vendor. This should not be confused with the hybrid 
+model, which combines services with cloud deployment models.
+
+Another model to consider is the community model. This occurs when a single community shares the cloud's infrastructure for their exclusive use. 
+Typically, this community has a shared interest or concern, such as having the same security requirements or jurisdiction, or sharing a mission. 
+This shared infrastructure facilitates data collaboration and exchange, whether it is research data between universities or government data 
+across agencies. The infrastructure itself can be maintained and hosted within or externally.

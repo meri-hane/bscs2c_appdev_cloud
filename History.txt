@@ -1,0 +1,21 @@
+Evolution of Cloud Computing 
+
+      The evolution of cloud computing can be traced back to the dawn of computers and is separated into three major phases: the idea phase, 
+the pre-phase, and the cloud phase.
+
+1. Idea phase: The concept of cloud computing first appeared in the 1960s with the creation of time-sharing systems that allowed numerous 
+users to access a single computer at the same time. During this time, the concept of virtualization, which allowed multiple virtual machines 
+to run on a single physical machine, was also developed.
+
+2. Pre-phase: Grid computing arose in the 1990s, allowing resources to be shared across multiple enterprises. This was a forerunner to cloud 
+computing since it allowed for the larger-scale sharing of computing resources. During this time, utility computing, which allowed computing 
+resources to be provided as a service, also emerged.
+
+3. Cloud phase: With the introduction of Infrastructure as a Service (IaaS) in the mid-2000s, the cloud era began. Companies like Amazon and 
+Google began to offer IaaS, which allowed organizations to rent computing resources from the cloud, such as servers and storage. This was the 
+beginning of cloud computing as we currently understand it. The term "Platform as a Service" (PaaS) first appeared in the late 2000s and early 
+2010s as a means for companies to create and deploy cloud-based applications. Software as a Service (SaaS), which enables organizations to 
+access software applications over the internet, dominates the present cloud phase. With providers offering a wide range of applications, from 
+email to corporate resource planning (ERP) systems, SaaS has grown to be the most well-liked cloud computing model.
+
+
