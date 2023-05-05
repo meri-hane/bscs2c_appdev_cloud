@@ -1,0 +1,11 @@
+What is Cloud Computing?
+
+      Cloud computing is the delivery of technology services - including compute, storage, databases, networking, software, and many m
+ore - over the internet with pay-as-you-go pricing. So, rather than owning your own computing infrastructure or data centers, you can 
+rent access to these different services from a cloud service provider, like Amazon AWS, Microsoft Azure, or Google Cloud Platform.
+
+What is Autonomic Computing?
+
+      The term "autonomic computing" describes a computer system's capacity to operate autonomously without constant human supervision. Autonomic 
+computing is the process of creating computer systems that can independently assess their own performance, spot issues before they become 
+serious, diagnose them, and take the necessary corrective action.
