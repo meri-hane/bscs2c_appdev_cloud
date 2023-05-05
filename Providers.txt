@@ -1,0 +1,74 @@
+Providers
+	Cloud providers, also known as cloud service providers, refers to third-party IT companies offering various on-demand, scalable computing resources and cloud-based services over the internet. These are well-suited for organizations and individuals alike who do not want the responsibility of installing software, hardware and/or network resources and maintaining them.
+
+Cloud service providers are often categorized by the type of resource they provide:
+
+Software as a service (SaaS) providers
+SaaS providers offer cloud-based software accessed via the internet. They handle everything from infrastructure to data, eliminating the need for businesses to install and maintain software on their servers. SaaS offers applications like CRM, HR, and project management, reducing costs and streamlining operations. Users pay a subscription fee that can be scaled up or down based on their needs.
+
+Notable SaaS providers include Salesforce, Microsoft, Intuit, Veeva Systems, and Oracle.
+Infrastructure as a service (IaaS) providers
+IaaS providers offer pay-as-you-go virtualized computing resources, like servers, storage, and networking. These can be customized to meet a business's specific needs, and easily scaled up or down. This flexibility is why IaaS is a popular choice for businesses looking to manage their own infrastructure without physical hardware.
+Some known IaaS providers are AWS, Microsoft, and Alibaba.
+Platform as a service (PaaS) providers
+PaaS providers offer a comprehensive platform that supports application development, testing, and deployment. They typically provide various development tools, middleware, and operating systems, which are hosted in the cloud and can be accessed via the internet. This approach eliminates the need for businesses to handle the underlying infrastructure, allowing them to concentrate on application development and deployment. Additionally, PaaS providers offer developers a high degree of flexibility in scaling their applications up or down as needed, while only paying for what they use. This makes PaaS a popular choice for businesses looking to develop and deploy applications rapidly, without the additional overhead of infrastructure management.
+
+Some known PaaS providers include Heroku, Red Hat, and Engine Yard.
+
+
+Currently, the top 3 cloud service providers in the industry are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+	
+	Amazon Web Services (AWS)
+AWS offers a wide range of cloud computing services including IaaS, PaaS, and SaaS. Some of its most popular services include Amazon EC2 for computing, Amazon S3 for storage, and Amazon RDS for databases.
+
+Microsoft Azure
+Microsoft Azure offers similar IaaS, PaaS, and SaaS services as AWS, but with a focus on integrating with Microsoft software and tools. Some of its popular services include Azure Virtual Machines for compute, Azure Storage for storage, and Azure SQL Database for databases
+
+Google Cloud Platform (GCP)
+GCP offers IaaS, PaaS, and SaaS services as well, with a focus on machine learning and data analytics capabilities. Some of its popular services include Compute Engine for compute, Cloud Storage for storage, and BigQuery for data analytics.
+
+Service Models 
+Many companies face significant challenges in meeting the high expectations of their customers for fast, reliable, and secure services due to an unprecedented burden on their IT infrastructure. Attempting to enhance processing power and storage capabilities can be costly, leading to difficulties in developing and maintaining a robust, scalable, and secure IT infrastructure. Fortunately, cloud computing offers an alternative approach. By leveraging these internet-based services offered by cloud providers, cloud computing thereby allows businesses to move beyond on-premise IT infrastructure.
+ 
+Cloud computing is offered in various service models with each covering different user and business needs. The three most popular types of cloud computing service most popular types of cloud computing service models are the Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).
+
+Software as a Service (SaaS)
+ 
+Also known as "on-demand software", SaaS is a web-based platform that provides access to cloud computing on a subscription basis, delivering software as a service rather than a one-time product. Users can access most of the SaaS applications with the help of internet connection and a web browser without any downloads or installations required, making it convenient and accessible to use.
+ 
+SaaS mostly covers the needs of end-users, as providers of this service typically offer a range of applications that are designed to meet the needs of specific business functions, such as customer relationship management (CRM), human resources (HR), and accounting, which are typically used by end-users.
+
+Characteristics of a SaaS
+Managed from a central location
+Hosted on a remote server
+Accessible over the internet
+Users are not responsible for hardware and software updates. Updates are applied automatically.
+The services are purchased on the pay-as-per-use basis
+ 
+Common examples of SaaS include Google Workspace, Microsoft 365, Slack, InfinCE and ReachOut Suite among others.
+ 
+Platform as a Service (PaaS)
+PaaS is a web-based platform that provides access to development tools, APIs, and deployment instruments without the need for IT infrastructure, making the development process more efficient and faster. Users, most typically developers, gain direct, complete access to virtual development environments and Cloud storage, where they can develop, test, run, maintain, and manage such applications.
+
+Characteristics of a PaaS
+Integrates with web services and databases.
+Builds on virtualization technology, so resources can easily be scaled up or down as per the organization's need.
+Support multiple languages and frameworks.
+Provides an ability to "Auto-scale".
+Examples of PaaS include AWS Elastic Beanstalk, Windows Azure, Heroku, Google App Engine, Apache Stratos, Magento Commerce Cloud, and OpenShift.
+
+
+Infrastructure as a Service (IaaS)
+ 
+IaaS, also known as Hardware as a Service (HaaS), is a cloud service model that provides businesses with cloud-hosted IT infrastructure components that provide compute, storage, network, and virtualization capabilities to the subscriber on an on-demand basis via the Internet. These components include development environments, private networks, virtual storage and networks, and deployment instruments needed for software. IaaS also provides virtualized computing resources and fully powers the development processes with third-party servers and cloud backup storage.
+IaaS typically covers the needs of Network architects and IT administrators, as this avoids the costs and complexity usually associated with building and maintaining physical infrastructure in an on-premises data center.
+
+Characteristics of an IaaS
+Resources are available as a service
+Services are highly scalable
+Dynamic and flexible
+GUI and API-based access
+Automated administrative tasks
+Popular examples of IaaS include the Amazon Elastic Compute Cloud (AWS EC2), Azure IaaS, Google Compute Engine (GCE), Rackspace, and Cisco Metacloud.
+
+Other cloud computing service models include Network as a Service (NaaS), Backup as a Service (BaaS), Database as a Service (DaaS), Communications as a Service (CaaS), Cloud Business Process as a Service (BpAAS), and Storage as a Service (STaaS).
