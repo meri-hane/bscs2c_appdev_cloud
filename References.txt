@@ -1,0 +1,66 @@
+Reference/s:
+
+Introduction & What is Cloud Computing
+Introduction To Cloud Computing - javatpoint. (n.d.). Www.javatpoint.com. https://www.javatpoint.com/introduction-to-cloud-computing
+‌Glass, E. (2020, October 15). A General Introduction to Cloud Computing. DigitalOcean. https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing
+‌Introduction to Cloud Computing - Apprenda. (2012). Apprenda. https://apprenda.com/library/cloud/introduction-to-cloud-computing/
+
+
+Evolution
+‌Evolution of Cloud Computing. (n.d.). Www.tutorialspoint.com. Retrieved May 3, 2023, from https://www.tutorialspoint.com/evolution-of-cloud-computing
+
+
+Deployment Models
+Peterson, R. (2020, January 8). Cloud Deployment Models. Www.guru99.com. https://www.guru99.com/cloud-deployment-models.html#:~:text=Four%20most%20important%20cloud%20deployment
+
+
+Providers
+What are cloud service providers? (n.d.). https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers
+What are cloud service providers? (n.d.). https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers
+What is a Cloud Service Provider?  |  Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/learn/what-is-a-cloud-service-provider
+Techopedia. (2022, July 11). What is a Cloud Provider? - Definition from Techopedia. https://www.techopedia.com/definition/133/cloud-provider
+Virtana. (2022, March 6). What are cloud providers. https://www.virtana.com/glossary/what-are-cloud-providers/
+
+
+Service Models
+Carrero, L. (2023, February 23). Main cloud service models: IaaS, PaaS and SaaS | Stackscale. Stackscale. https://www.stackscale.com/blog/cloud-service-models/
+Cloud Service Models - javatpoint. (n.d.). www.javatpoint.com. https://www.javatpoint.com/cloud-service-models
+Expert, C. (n.d.). The Top 3 Cloud Computing Service Models. CDW.com. https://www.cdw.com/content/cdw/en/articles/cloud/top-3-cloud-computing-service-models.html
+IaaS vs. PaaS vs. SaaS | IBM. (n.d.). https://www.ibm.com/topics/iaas-paas-saas
+Kumar, A. (2023, April 26). Top 3 Cloud Computing Service Models. SaaS | PaaS | IaaS. https://k21academy.com/amazon-web-services/aws-solutions-architect/cloud-service-models/
+Marketer. (2023, February 28). Different Types of Cloud Service Models. Jelvix. https://jelvix.com/blog/cloud-service-models
+Munevar, C. (2022). The three service models of Cloud Computing. Open International. https://www.openintl.com/the-three-service-models-of-cloud-computing/
+Saratchandran, V. (2023). Cloud Service Models Saas, IaaS, Paas – Choose the Right One for Your Business. Fingent Technology. https://www.fingent.com/blog/cloud-service-models-saas-iaas-paas-choose-the-right-one-for-your-business/
+
+Advantages of Cloud Computing
+Advantages Of Cloud Computing  |  Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/learn/advantages-of-cloud-computing#:~:text=Cloud%20storage%20enables%20you%20to,they%20have%20an%20internet%20connection.
+Cloud Security: How Secure is Cloud Data? (n.d.). Norton. https://us.norton.com/blog/privacy/cloud-data-security#:~:text=What%20makes%20cloud%20storage%20so,harder%20for%20cybercriminals%20to%20access.
+DeClute, D. (2022). Top 11 benefits of cloud computing. Cloud Computing. https://www.techtarget.com/searchcloudcomputing/tip/Top-11-benefits-of-cloud-computing
+GeeksforGeeks. (2020). Advantages and Disadvantages of Cloud Security. GeeksforGeeks. https://www.geeksforgeeks.org/advantages-and-disadvantages-of-cloud-security/
+Naveen. (2023). Advantages and Disadvantages of Cloud Computing. Intellipaat Blog. https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/advantages-and-disadvantages-of-cloud-computing/
+Peterson, R. (2023). Advantages and Disadvantages of Cloud Computing. Guru99. https://www.guru99.com/advantages-disadvantages-cloud-computing.html
+Simplilearn. (2023). What is Cloud Scalability? Simplilearn.com. https://www.simplilearn.com/what-is-cloud-scalability-article
+Top 10 Benefits of Cloud Computing. (n.d.). https://www.oracle.com/cloud/what-is-cloud-computing/top-10-benefits-cloud-computing/
+
+Disadvantages of Cloud Computing
+Larkin, A. (2022, October 10). Disadvantages of cloud computing. Cloud Academy from https://cloudacademy.com/blog/disadvantages-of-cloud-computing/ 
+What's cloud computing? the advantages and disadvantages. Microsoft. (n.d.) from https://www.microsoft.com/en-gb/microsoft-365/business-insights-ideas/resources/whats-cloud-computing-the-advantages-and-disadvantages 
+Venezia, T. D. E. B. P., &amp; Venezia, P. (2014, June 23). Murder in the amazon cloud. InfoWorld from https://www.infoworld.com/article/2608076/murder-in-the-amazon-cloud.html
+Hersher, R. (2017, March 3). Amazon and the $150 Million typo. NPR from https://www.npr.org/sections/thetwo-way/2017/03/03/518322734/amazon-and-the-150-million-typo?t=1529930367722 
+
+
+Recent Developments of Cloud Computing
+Google. (n.d.). What is Multicloud? definition and benefits &nbsp;|&nbsp; google cloud. Google from https://cloud.google.com/learn/what-is-multicloud 
+Google. (n.d.). Multicloud Solutions &nbsp;|&nbsp; google cloud. Google from https://cloud.google.com/multicloud 
+Google. (n.d.). What is kubernetes? &nbsp;|&nbsp; google cloud. Google from https://cloud.google.com/learn/what-is-kubernetes 
+What is edge computing?: Microsoft Azure. What Is Edge Computing? | Microsoft Azure. (n.d.) from https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-edge-computing/ 
+Serverless Computing and Applications: Microsoft Azure. Serverless computing and applications | Microsoft Azure. (n.d.) from https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-serverless-computing/ 
+Google. (n.d.). What are containers? &nbsp;|&nbsp; google cloud. Google from https://cloud.google.com/learn/what-are-containers 
+The University. (1978). What is Containerization? Amazon from https://aws.amazon.com/what-is/containerization/ 
+Google. (n.d.). What is a hybrid cloud? - google cloud. Google from https://cloud.google.com/learn/what-is-hybrid-cloud 
+Azure, M. (n.d.). What is a hybrid cloud?: . What is a Hybrid Cloud? | Microsoft Azure from https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/ 
+
+
+Relation to Autonomic Computing
+Sobers Smiles David, G., Ramkumar, K., Shanmugavadivu, P., &amp; Eliahim Jeevaraj, P. S. (1970, January 1). Autonomic computing in cloud: Model and applications. SpringerLink from https://link.springer.com/chapter/10.1007/978-3-030-71756-8_3 
+GeeksforGeeks. (2020, September 2). What is autonomic computing? GeeksforGeeks. from https://www.geeksforgeeks.org/what-is-autonomic-computing/ 
