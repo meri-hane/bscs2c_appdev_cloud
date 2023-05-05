@@ -1,0 +1,45 @@
+Service Models 
+Many companies face significant challenges in meeting the high expectations of their customers for fast, reliable, and secure services due to an unprecedented burden on their IT infrastructure. Attempting to enhance processing power and storage capabilities can be costly, leading to difficulties in developing and maintaining a robust, scalable, and secure IT infrastructure. Fortunately, cloud computing offers an alternative approach. By leveraging these internet-based services offered by cloud providers, cloud computing thereby allows businesses to move beyond on-premise IT infrastructure.
+ 
+Cloud computing is offered in various service models with each covering different user and business needs. The three most popular types of cloud computing service most popular types of cloud computing service models are the Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).
+
+Software as a Service (SaaS)
+ 
+Also known as "on-demand software", SaaS is a web-based platform that provides access to cloud computing on a subscription basis, delivering software as a service rather than a one-time product. Users can access most of the SaaS applications with the help of internet connection and a web browser without any downloads or installations required, making it convenient and accessible to use.
+ 
+SaaS mostly covers the needs of end-users, as providers of this service typically offer a range of applications that are designed to meet the needs of specific business functions, such as customer relationship management (CRM), human resources (HR), and accounting, which are typically used by end-users.
+
+Characteristics of a SaaS
+Managed from a central location
+Hosted on a remote server
+Accessible over the internet
+Users are not responsible for hardware and software updates. Updates are applied automatically.
+The services are purchased on the pay-as-per-use basis
+ 
+Common examples of SaaS include Google Workspace, Microsoft 365, Slack, InfinCE and ReachOut Suite among others.
+ 
+Platform as a Service (PaaS)
+PaaS is a web-based platform that provides access to development tools, APIs, and deployment instruments without the need for IT infrastructure, making the development process more efficient and faster. Users, most typically developers, gain direct, complete access to virtual development environments and Cloud storage, where they can develop, test, run, maintain, and manage such applications.
+
+Characteristics of a PaaS
+Integrates with web services and databases.
+Builds on virtualization technology, so resources can easily be scaled up or down as per the organization's need.
+Support multiple languages and frameworks.
+Provides an ability to "Auto-scale".
+Examples of PaaS include AWS Elastic Beanstalk, Windows Azure, Heroku, Google App Engine, Apache Stratos, Magento Commerce Cloud, and OpenShift.
+
+
+Infrastructure as a Service (IaaS)
+ 
+IaaS, also known as Hardware as a Service (HaaS), is a cloud service model that provides businesses with cloud-hosted IT infrastructure components that provide compute, storage, network, and virtualization capabilities to the subscriber on an on-demand basis via the Internet. These components include development environments, private networks, virtual storage and networks, and deployment instruments needed for software. IaaS also provides virtualized computing resources and fully powers the development processes with third-party servers and cloud backup storage.
+IaaS typically covers the needs of Network architects and IT administrators, as this avoids the costs and complexity usually associated with building and maintaining physical infrastructure in an on-premises data center.
+
+Characteristics of an IaaS
+Resources are available as a service
+Services are highly scalable
+Dynamic and flexible
+GUI and API-based access
+Automated administrative tasks
+Popular examples of IaaS include the Amazon Elastic Compute Cloud (AWS EC2), Azure IaaS, Google Compute Engine (GCE), Rackspace, and Cisco Metacloud.
+
+Other cloud computing service models include Network as a Service (NaaS), Backup as a Service (BaaS), Database as a Service (DaaS), Communications as a Service (CaaS), Cloud Business Process as a Service (BpAAS), and Storage as a Service (STaaS).

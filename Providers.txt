@@ -1,0 +1,28 @@
+Providers
+	Cloud providers, also known as cloud service providers, refers to third-party IT companies offering various on-demand, scalable computing resources and cloud-based services over the internet. These are well-suited for organizations and individuals alike who do not want the responsibility of installing software, hardware and/or network resources and maintaining them.
+
+Cloud service providers are often categorized by the type of resource they provide:
+
+Software as a service (SaaS) providers
+SaaS providers offer cloud-based software accessed via the internet. They handle everything from infrastructure to data, eliminating the need for businesses to install and maintain software on their servers. SaaS offers applications like CRM, HR, and project management, reducing costs and streamlining operations. Users pay a subscription fee that can be scaled up or down based on their needs.
+
+Notable SaaS providers include Salesforce, Microsoft, Intuit, Veeva Systems, and Oracle.
+Infrastructure as a service (IaaS) providers
+IaaS providers offer pay-as-you-go virtualized computing resources, like servers, storage, and networking. These can be customized to meet a business's specific needs, and easily scaled up or down. This flexibility is why IaaS is a popular choice for businesses looking to manage their own infrastructure without physical hardware.
+Some known IaaS providers are AWS, Microsoft, and Alibaba.
+Platform as a service (PaaS) providers
+PaaS providers offer a comprehensive platform that supports application development, testing, and deployment. They typically provide various development tools, middleware, and operating systems, which are hosted in the cloud and can be accessed via the internet. This approach eliminates the need for businesses to handle the underlying infrastructure, allowing them to concentrate on application development and deployment. Additionally, PaaS providers offer developers a high degree of flexibility in scaling their applications up or down as needed, while only paying for what they use. This makes PaaS a popular choice for businesses looking to develop and deploy applications rapidly, without the additional overhead of infrastructure management.
+
+Some known PaaS providers include Heroku, Red Hat, and Engine Yard.
+
+
+Currently, the top 3 cloud service providers in the industry are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+	
+	Amazon Web Services (AWS)
+AWS offers a wide range of cloud computing services including IaaS, PaaS, and SaaS. Some of its most popular services include Amazon EC2 for computing, Amazon S3 for storage, and Amazon RDS for databases.
+
+Microsoft Azure
+Microsoft Azure offers similar IaaS, PaaS, and SaaS services as AWS, but with a focus on integrating with Microsoft software and tools. Some of its popular services include Azure Virtual Machines for compute, Azure Storage for storage, and Azure SQL Database for databases
+
+Google Cloud Platform (GCP)
+GCP offers IaaS, PaaS, and SaaS services as well, with a focus on machine learning and data analytics capabilities. Some of its popular services include Compute Engine for compute, Cloud Storage for storage, and BigQuery for data analytics.
